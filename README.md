@@ -1,6 +1,4 @@
 # Automousemover
-Auto Mouse Mover
-
 Hey Everyone, 
 
 i was tired after i see that murgee.com/auto-mouse-mover/ is only shareware
