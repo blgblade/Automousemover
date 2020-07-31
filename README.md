@@ -12,3 +12,7 @@ i build my own tool that does the job.
 it only needs net framework 4 (that should be installed everywhere )
 
 ![alt text](https://github.com/blgblade/Automousemover/blob/master/amm.jpg)
+
+You can just Download it [here](https://github.com/blgblade/Automousemover/raw/master/AMM.exe)
+
+i will upload my ugly sourcecode after i configured my vs2019 for git, sry i'm new here :) 
